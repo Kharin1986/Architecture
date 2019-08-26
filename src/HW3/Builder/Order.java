@@ -8,6 +8,7 @@ public class Order {
     private double stopLoss;
     private int slippage;
 
+
     public Order(String magicNumber) {
         this.magicNumber = magicNumber;
     }
